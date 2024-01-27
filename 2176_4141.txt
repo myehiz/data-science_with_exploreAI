@@ -1,0 +1,40 @@
+14-01-24_22:45:43
+=========================================
+============ AUTOGRADING ================
+=========================================
+Examining contents of 2176_4141.zip
+One jupyter notebook found
+-----------------------------------------
+Unzipping 2176_4141.zip to /home/autograder/unzipped
+Archive:  /home/autograder/temp/2176_4141.zip
+  inflating: /home/autograder/unzipped/2176_4141/GCC-Data-structures-types_test_suite.py  
+  inflating: /home/autograder/unzipped/2176_4141/submission_GCC-Data-structures-types_student_version.ipynb  
+caution: excluded filename not matched:  __MACOSX/*
+Unzipped successfully
+-----------------------------------------
+Processing notebook
+Notebook processed successfully
+-----------------------------------------
+Checking submission for syntax errors
+Check complete
+-----------------------------------------
+Grading student code
+Student code graded successfully
+PASSED     create_tractor_with_valid_input
+PASSED     create_tractor_with_valid_input
+PASSED     create_tractor_with_unseen_input
+PASSED     plant_row_with_valid_field_sizes
+PASSED     plant_row_with_valid_field_sizes
+PASSED     plant_row_with_unseen_field_sizes
+PASSED     add_vehicle_with_valid_inputs
+PASSED     add_vehicle_with_valid_inputs
+PASSED     add_vehicle_with_unseen_input_types
+PASSED     add_vehicle_with_unseen_input_types
+-----------------------------------------
+Saving result (100.0) to 2176_4141.csv
+=========================================
+AUTOGRADING COMPLETED WITH EXIT STATUS: 0
+=========================================
+
+Submission Name : 2176_4141.zip
+Grade : 100.0
